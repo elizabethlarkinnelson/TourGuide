@@ -5,6 +5,14 @@
     <string name="app_name">TourGuide</string>
     <string name="title_activity_restaurants">Restaurants</string>
 
+
+    <!-- Category Strings -->
+    <string name="category_restaurants">Food</string>
+    <string name="category_neighborhoods">Places</string>
+    <string name="category_nature">Nature</string>
+    <string name="category_museums">Museums</string>
+
+    <!-- RESTAURANTS -->
     <!-- Restaurant name The Grove Restaurant -->
     <string name="grove">The Grove Restaurant</string>
 
@@ -15,7 +23,7 @@
     <string name="depot">Depot</string>
 
     <!-- Restaurant Depot description -->
-    <string name="depot_des">Energetic, industrial-chic offering creative dishes</string>
+    <string name="depot_des">Industrial-chic with creative dishes</string>
 
     <!-- Restaurant name One Tree Gril -->
     <string name="one_tree_grill">One Tree Grill</string>
@@ -64,6 +72,62 @@
 
     <!-- Restaurant Calcutta description -->
     <string name="calcutta_des">Stylish, contemporary locale</string>
-    <string name="category_restaurants">Restaurants</string>
+
+    <!-- NEIGHBORHOODS -->
+    <!-- Neighborhood name Ponsonboy -->
+    <string name="ponsonby">Ponsonby</string>
+
+    <!-- Neighborhood description Ponsonboy -->
+    <string name="ponsonby_des">Auckland cultural hub with great eats</string>
+
+    <!-- Neighborhood name Parnell -->
+    <string name="parnell">Parnell</string>
+
+    <!-- Neighborhood description Parnell -->
+    <string name="parnell_des">Vintage shops and museums</string>
+
+    <!-- Neighborhood name Britomart -->
+    <string name="britomart">Britomart</string>
+
+    <!-- Neighborhood description Britomart -->
+    <string name="britomart_des">Hub for trains, buses and ferries</string>
+
+    <!-- NATURE -->
+    <!-- Nature Albert Park -->
+    <string name="albert_park">Albert Park</string>
+
+    <!-- Nature description Albert Park -->
+    <string name="albert_park_des">Park established by original Auckland settlers</string>
+
+    <!-- Nature Myers Park -->
+    <string name="myers_park">Myers Park</string>
+
+    <!-- Nature description Myers Park -->
+    <string name="myers_park_des"> A welcome break from the city in a green oasis</string>
+
+    <!-- Nature Waiatura Reserve -->
+    <string name="waiatura">Waiatura Reserve</string>
+
+    <!-- Nature description Waiatura Reserve -->
+    <string name="waiatura_des">Great for children, walkers, joggers and dogs</string>
+
+    <!-- MUSEUMS -->
+    <!-- Museum name New Zealand Maritime Museum -->
+    <string name="maritime_museum">New Zealand Maritime Museum</string>
+
+    <!-- Museum description Maritime Museum -->
+    <string name="maritime_des">Museum exploring New Zealand seafaring history</string>
+
+    <!-- Museum name Auckland War Memorial Museum -->
+    <string name="war_memorial">Auckland War Memorial Museum</string>
+
+    <!-- Museum description Auckland War Memorial -->
+    <string name="war_memorial_des">A fine neoclassical building containing permanent and temporary collectiosn</string>
+
+    <!-- Museum name Museum of Transport and Technology -->
+    <string name="transport_technology">Museum of Transport and Technology</string>
+
+    <!-- Museum description Transport and Technology -->
+    <string name="transport_technology_des">Interactive zones and exhibits exploring NZ tech history</string>
 
 </resources>

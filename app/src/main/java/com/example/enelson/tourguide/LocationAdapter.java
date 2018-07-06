@@ -23,26 +23,21 @@ public class LocationAdapter extends ArrayAdapter<Location> {
 
     @Override
     public View getView(int position, View convertView, ViewGroup parent){
-        //Check if existing view is being resused, otherwise inflate view
         View listItemView = convertView;
         if (listItemView == null){
             listItemView = LayoutInflater.from(getContext()).inflate(
                     R.layout.list_item, parent, false);
         }
 
-        //Get the {@link Location} objected located at this position at the list
         Location currentLocation = getItem(position);
-
 
         TextView nameTextView = (TextView) listItemView.findViewById(R.id.name_text_view);
 
         nameTextView.setText(currentLocation.getLocationNameId());
 
-
         TextView descriptionTextView = (TextView) listItemView.findViewById(R.id.description_text_view);
 
         descriptionTextView.setText(currentLocation.getLocationDescriptionId());
-
 
         ImageView imageView = (ImageView) listItemView.findViewById(R.id.picture_image_view);
 

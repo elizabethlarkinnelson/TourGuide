@@ -22,9 +22,9 @@ public class Location {
     /**
      * Create a new Location object
      *
-     * @param locationName is the string resource ID for the name of a location
-     * @param locationDescription is the string resource ID for the description of a location
-     * @param imageResourceID is the image resource ID for the image associated with a location
+     * @param locationNameId is the string resource ID for the name of a location
+     * @param locationDescriptionId is the string resource ID for the description of a location
+     * @param imageResourceId is the image resource ID for the image associated with a location
      *
      */
 
@@ -37,8 +37,8 @@ public class Location {
     /**
      * Create a new Location object
      *
-     * @param locationName is the string resource ID for the name of a location
-     * @param locationDescription is the string resource ID for the description of a location
+     * @param locationNameId is the string resource ID for the name of a location
+     * @param locationDescriptionId is the string resource ID for the description of a location
      *
      */
 

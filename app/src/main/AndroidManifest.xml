@@ -25,6 +25,33 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity"/>
         </activity>
+        <activity android:name=".NeighborhoodsActivity"
+            android:label="@string/category_neighborhoods"
+            android:parentActivityName=".MainActivity">
+
+            <!-- Parenta ctivity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
+        <activity android:name=".NatureActivity"
+            android:label="@string/category_nature"
+            android:parentActivityName=".MainActivity">
+
+            <!-- Parenta ctivity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
+        <activity android:name=".MuseumsActivity"
+            android:label="@string/category_museums"
+            android:parentActivityName=".MainActivity">
+
+            <!-- Parenta ctivity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
     </application>
 
 </manifest>
