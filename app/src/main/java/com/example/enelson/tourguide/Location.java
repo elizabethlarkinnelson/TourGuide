@@ -35,6 +35,19 @@ public class Location {
     }
 
     /**
+     * Create a new Location object
+     *
+     * @param locationName is the string resource ID for the name of a location
+     * @param locationDescription is the string resource ID for the description of a location
+     *
+     */
+
+    public Location(int locationNameId, int locationDescriptionId){
+        mLocationNameId = locationNameId;
+        mLocationDescriptionId = locationDescriptionId;
+    }
+
+    /**
      * Get the string resource ID for the location name.
      */
     public int getLocationNameId(){

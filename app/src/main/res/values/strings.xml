@@ -1,4 +1,69 @@
 <resources>
+
+    <!-- Application information resources -->
+
     <string name="app_name">TourGuide</string>
     <string name="title_activity_restaurants">Restaurants</string>
+
+    <!-- Restaurant name The Grove Restaurant -->
+    <string name="grove">The Grove Restaurant</string>
+
+    <!-- Restaurant Grove description -->
+    <string name="grove_des">Upscale, fixed-price restaurant</string>
+
+    <!-- Restaurant name Depot -->
+    <string name="depot">Depot</string>
+
+    <!-- Restaurant Depot description -->
+    <string name="depot_des">Energetic, industrial-chic offering creative dishes</string>
+
+    <!-- Restaurant name One Tree Gril -->
+    <string name="one_tree_grill">One Tree Grill</string>
+
+    <!-- Restaurant One Tree Grill description -->
+    <string name="tree_grill_des">High-end, creative NZ cuisine</string>
+
+    <!-- Restaurant name The French Cafe -->
+    <string name="french_cafe">The French Cafe</string>
+
+    <!-- Restaurant French cafe description -->
+    <string name="french_cafe_des">Contemporary NZ fair</string>
+
+    <!-- Restaurant name The Sugar Club -->
+    <string name="sugar_club">The Sugar Club</string>
+
+    <!-- Restaurant Sugar Club description -->
+    <string name="sugar_des">Creative, seasonal small plates</string>
+
+    <!-- Restaurant name Baduzzi -->
+    <string name="baduzzi">Baduzzi</string>
+
+    <!-- Restaurant Baduzzi description -->
+    <string name="baduzzi_des">Indoor-outdoor eatery</string>
+
+    <!-- Restaurant name Azabu -->
+    <string name="azabu">Azabu</string>
+
+    <!-- Restaurant Azabu description -->
+    <string name="azabu_des">Cosy, Ponsonby restaurant</string>
+
+    <!-- Restaurant name Amano -->
+    <string name="amano">Amano</string>
+
+    <!-- Restaurant Amano description -->
+    <string name="amano_des">Casual with creative cocktails</string>
+
+    <!-- Restaurant name Cafe Midnight Express -->
+    <string name="midnight_express">Care Midnight Express</string>
+
+    <!-- Restaurant Midnight Express description -->
+    <string name="midnight_des">Casual and good for kids</string>
+
+    <!-- Restaurant name Oh Calcutta-->
+    <string name="oh_calcutta">Oh Calcutta</string>
+
+    <!-- Restaurant Calcutta description -->
+    <string name="calcutta_des">Stylish, contemporary locale</string>
+    <string name="category_restaurants">Restaurants</string>
+
 </resources>
